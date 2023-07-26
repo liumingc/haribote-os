@@ -1,0 +1,6 @@
+**/*.obj
+**/*.lst
+**/*.bin
+harib*/*.sys
+harib*/*.img
+harib*/*.map

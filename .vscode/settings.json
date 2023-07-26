@@ -1,0 +1,10 @@
+{
+    "files.exclude": {
+        "**.bin, **.lst, *.obj, *.img": true
+    },
+    "files.associations": {
+        "*.nas": "asm",
+        "bootpack.h": "c"
+    },
+    "json.schemas": []
+}
